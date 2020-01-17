@@ -1,0 +1,86 @@
+:root {
+    /*    IMPROVISE COLOR */
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-link:hover {
+    color: orangered !important;
+}
+
+.nav-link:hover {
+    color: orangered !important;
+}
+
+.carousel {
+    top: 0;
+}
+
+.carousel-inner {
+    width: 100%;
+    overflow: hidden;
+}
+
+.carousel-caption {
+    top: 30%;
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    z-index: 3;
+    background: rgb(0, 0, 0);
+    opacity: 0.85;
+    width: 100%;
+    border-bottom: 0.5px solid black !important;
+}
+
+.two .row .col img:hover {
+  -moz-box-shadow: 0 0 10px #ccc;
+      -webkit-box-shadow: 0 0 10px #ccc;
+      box-shadow: 0 0 10px #ccc;
+ }
+ul li {
+    list-style-type: none;
+}
+ul li i:hover {
+    color: darkorange !important;
+    cursor: pointer;
+    
+}
+.four .row .orange {
+    background-color: cadetblue !important;
+}
+.five {
+    background-color: lightblue !important;
+}
+.underline {
+    border: 2px solid gold !important;
+    width: 20%;
+}
+footer .row .col i {
+    font-size: 1.5em;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
